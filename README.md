@@ -5,6 +5,31 @@
 </div>
 <br><br>
 
+<div align="center">
+    <a href="#" target="_blank">
+        <img src="./assets/images/facebook.png" width="50" height="50">&nbsp;
+    </a>
+    <a href="#" target="_blank">
+        <img src="./assets/images/instagram.png" width="50" height="50">&nbsp;
+    </a>
+    <a href="#" target="_blank">
+        <img src="./assets/images/linkedin.png" width="50" height="50">&nbsp;
+    </a>
+    <a href="#" target="_blank">
+        <img src="./assets/images/twitter.png" width="50" height="50">&nbsp;
+    </a>
+    <a href="#" target="_blank">
+        <img src="./assets/images/discord.png" width="50" height="50">&nbsp;
+    </a>
+    <a href="#" target="_blank">
+        <img src="./assets/images/portfolio_website.png" width="50" height="50">&nbsp;
+    </a>
+    <a href="#" target="_blank">
+        <img src="./assets/images/email.png" width="50" height="50">
+    </a>
+</div>
+<br><br>
+
 # About Me
 
 - 

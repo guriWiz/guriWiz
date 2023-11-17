@@ -6,25 +6,25 @@
 <br><br>
 
 <div align="center">
-    <a href="#" target="_blank">
+    <a href="https://www.facebook.com/gurvindersingh.singh.792303/" target="_blank">
         <img src="./assets/images/facebook.png" width="50" height="50">&nbsp;
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.instagram.com/_guridev_/" target="_blank">
         <img src="./assets/images/instagram.png" width="50" height="50">&nbsp;
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.linkedin.com/in/gurvinder-singh-360691123/" target="_blank">
         <img src="./assets/images/linkedin.png" width="50" height="50">&nbsp;
     </a>
-    <a href="#" target="_blank">
+    <a href="https://twitter.com/Guri_XD" target="_blank">
         <img src="./assets/images/twitter.png" width="50" height="50">&nbsp;
     </a>
-    <a href="#" target="_blank">
+    <a href="https://discordapp.com/users/GuriX#5028" target="_blank">
         <img src="./assets/images/discord.png" width="50" height="50">&nbsp;
     </a>
-    <a href="#" target="_blank">
+    <a href="https://gurvindersingh.me" target="_blank">
         <img src="./assets/images/portfolio_website.png" width="50" height="50">&nbsp;
     </a>
-    <a href="#" target="_blank">
+    <a href="mailto:guri.developer97@gmail.com" target="_blank">
         <img src="./assets/images/email.png" width="50" height="50">
     </a>
 </div>

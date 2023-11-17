@@ -1,4 +1,4 @@
-# Hi, I'm [Gurvinder Singh](https://gurvindersingh.me) - aka **Guri-X** &nbsp;<img src="./assets/images/desktop.png" width="35" height="35" align="center">
+# Hi, I'm [Gurvinder Singh](https://gurvindersingh.me) - aka [Guri-X](https://github.com/Guri-X) &nbsp;<img src="./assets/images/desktop.png" width="35" height="35" align="center">
 
 <div align="center">
     <img src="./assets/gifs/header.gif" width="600">

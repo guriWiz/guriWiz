@@ -1,8 +1,14 @@
-# Hi, I'm [Gurvinder Singh](https://gurvindersingh.me) - aka [Guri-X](https://github.com/Guri-X) &nbsp;<img src="./assets/images/desktop.png" width="35" height="35" align="center">
+# <img src="./assets/images/waving_hand.png" width="35" height="35"> I'm [Gurvinder Singh](https://gurvindersingh.me) - aka [Guri-X](https://github.com/Guri-X) &nbsp;<img src="./assets/images/desktop.png" width="35" height="35" align="center">
 
 <div align="center">
     <img src="./assets/gifs/header.gif" width="600">
 </div>
+<br><br>
+
+# About Me
+
+- 
+
 <br><br>
 
 # Github Stats
@@ -11,6 +17,7 @@
     <a href="https://github.com/Guri-X">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guri-X&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guri-X&layout=compact&theme=radical&langs_count=8"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guri-X&title_color=dc4f84&icon_color=dc4f84&show_owner=true&theme=radical" alt="Guri-X Streak"/>
     </a>
 </div>
 <br><br>

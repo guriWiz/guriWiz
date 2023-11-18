@@ -97,7 +97,7 @@
 
 ## Cloud
 
-<img src="./assets/tech_stack/aws.png" width="75" height="50" align="center">
+<img src="./assets/tech_stack/aws.png" width="75" height="50" align="center">&nbsp;
 <img src="./assets/tech_stack/gcp.png" width="100" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/tech_stack/linode.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/tech_stack/digitalocean.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;

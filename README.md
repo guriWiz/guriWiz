@@ -47,6 +47,51 @@
 
 <br><br>
 
+# 🌩️ Tech Stack
+
+<br>
+
+## Languages & Frameworks
+
+<img src="./assets/tech_stack/python.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/django.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/html.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/css.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/javascript.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/git.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/gitlab.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/github.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/bootstrap.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/pandas.png" width="100" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+
+## Softwares & Tools
+
+<img src="./assets/tech_stack/vscode.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/jupyter_notebook.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/docker.png" width="70" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+
+## Databases
+
+<img src="./assets/tech_stack/mysql.png" width="75" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/mongodb.png" width="150" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/postgresql.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+
+## Cloud
+
+<img src="./assets/tech_stack/aws.png" width="75" height="50" align="center">
+<img src="./assets/tech_stack/gcp.png" width="100" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/linode.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/digitalocean.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/heroku.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br><br>
+
 # <img src="./assets/images/github.png" width="35" height="35" align="center"> Github Stats
 
 <div align="center">

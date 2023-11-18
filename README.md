@@ -31,7 +31,7 @@
 
 ---
 
-[![Visits Badge](https://badges.pufler.dev/visits/Guri-X/Guri-X)](https://github.com/Guri-X)
+[![Visits Badge](https://badges.pufler.dev/visits/Guri-X/Guri-X?label=Visitors%20Count&style=for-the-badge&color=dc4f84)](https://github.com/Guri-X)
 
 <br><br>
 
@@ -51,7 +51,7 @@
 
 <br>
 
-## Languages & Frameworks
+## Languages, Frameworks & Tools
 
 <img src="./assets/tech_stack/python.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/tech_stack/django.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,14 +63,26 @@
 <img src="./assets/tech_stack/github.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/tech_stack/bootstrap.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/tech_stack/pandas.png" width="100" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/docker.png" width="70" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/linux.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/nodejs.png" width="75" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/react.png" width="60" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/redis.png" width="120" height="100" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/markdown.png" width="60" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/redux.svg" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/flask.png" width="75" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/fastapi.svg" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/graphql.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/shopify.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/jekyll.webp" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
-## Softwares & Tools
+## Softwares
 
 <img src="./assets/tech_stack/vscode.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/tech_stack/jupyter_notebook.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/tech_stack/docker.png" width="70" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/ubuntu.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
@@ -79,6 +91,7 @@
 <img src="./assets/tech_stack/mysql.png" width="75" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/tech_stack/mongodb.png" width="150" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/tech_stack/postgresql.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/tech_stack/sqlite.png" width="50" height="50" align="center">&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 

@@ -28,15 +28,26 @@
         <img src="./assets/images/email.png" width="50" height="50">
     </a>
 </div>
+
+---
+
+[![Visits Badge](https://badges.pufler.dev/visits/Guri-X/Guri-X)](https://github.com/Guri-X)
+
 <br><br>
 
-# About Me
+# 🖊️ About Me
 
-- 
+- I'm a full stack developer with 4+ years of experience in building and breaking applications.
+- I completed bachelor's and master's degree in computer applications.
+- I'm on a journey to learn more about the AI/ML technologies, improve my skills, and keep gaining knowledge.
+- I love the concept of **Open Source** because open source is about collaborating; not competing.
+- Reach out to me for any guidance, collaboration or just an interesting discussion.
+- If you found value in something that I have created, feel free to send some ❤️ my way.
+- Fun fact: **ChatGPT** made me wrote this 🤖.
 
 <br><br>
 
-# Github Stats
+# <img src="./assets/images/github.png" width="35" height="35" align="center"> Github Stats
 
 <div align="center">
     <a href="https://github.com/Guri-X">
@@ -47,6 +58,6 @@
 </div>
 <br><br>
 
-# My Holopins
+# 📌 My Holopins
 
 [![@gurix's Holopin board](https://holopin.me/gurix)](https://holopin.io/@gurix)
